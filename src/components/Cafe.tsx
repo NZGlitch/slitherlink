@@ -12,7 +12,7 @@ const CafeStyle: ViewStyle = {
 };
 
 const HeaderStyle: TextStyle = {
-  color: '#8DC',
+  color: '#3A9',
   fontFamily: 'Comic Sans',
   fontSize: 26,
   fontWeight: 'bold',
