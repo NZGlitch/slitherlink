@@ -17,8 +17,8 @@ const App = () => {
     <View
       style={{
         flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
+        margin: 0,
+        padding: 0,
       }}>
       <Cafe></Cafe>
     </View>
